@@ -1,5 +1,5 @@
 {
-  "name": "android-status-bar-disabler",
+  "name": "cordova-plugin-android-status-bar-disabler",
   "version": "0.1.0",
   "description": "Disable status bar on Android device for kiosk application",
   "cordova": {
@@ -15,10 +15,13 @@
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
+    "cordova",
+    "statusbar",
     "android",
     "status",
     "status bar",
-    "notification bar"
+    "notification bar",
+    "cordova-android"
   ],
   "engines": [
     {
@@ -27,7 +30,7 @@
     }
   ],
   "author": "bazzooka",
-  "license": "ISC",
+  "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/bazzooka/android-status-bar-disabler/issues"
   },
